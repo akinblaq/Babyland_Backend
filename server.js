@@ -22,4 +22,4 @@ const startServer = async () => {
 
 startServer();
 
-// SETUP SERVER TO RUN -> MODEL -> CONTROLLER -> ROUTER -> BACK TO APP.JS... there will be other folders if neccessary
+// SETUP SERVER TO RUN -> MODEL -> CONTROLLER -> ROUTER -> TO APP.JS... there will be other folders if neccessary
